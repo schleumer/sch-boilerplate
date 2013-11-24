@@ -1,0 +1,58 @@
+{
+  "name": "sch-boilerplate",
+  "description": "Meu boilerplate.",
+  "version": "1.0.0",
+  "author": "Wesley Schleumer",
+  "engines": [
+    "node"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/schleumer/sch-boilerplate"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.0",
+    "grunt-cli": "~0.1.6",
+    "grunt-contrib-watch": "0.3.1",
+    "grunt-contrib-clean": "0.4.0",
+    "grunt-contrib-cssmin": "0.4.1",
+    "grunt-contrib-less": "0.5.0",
+    "grunt-contrib-coffee": "0.4.0",
+    "grunt-shell": "~0.2.1",
+    "grunt-nodemon": "~0.1.2",
+    "grunt-concurrent": "~0.4.2"
+  },
+  "dependencies": {
+    "express": "3.3.8",
+    "underscore": "~1.5.2",
+    "underscore.string": "~2.3.3",
+    "mongoose": "~3.6.20",
+    "mongoose-validate": "0.0.5",
+    "mongodb": "*",
+    "connect-redis": "1.4.x",
+    "dot": "*",
+    "express-dot": "*",
+    "crypto": "0.0.3",
+    "moment": "*",
+    "rekuire": "*",
+    "async": "~0.2.9",
+    "orm": "~2.1.2",
+    "mysql": "~2.0.0-alpha9",
+    "knex": "~0.4.4",
+    "soundex": "~0.2.1",
+    "node-uuid": "~1.4.1",
+    "mkdirp": "~0.3.5",
+    "gm": "~1.13.1",
+    "node-minify": "~0.8.1",
+    "node-dir": "~0.1.5",
+    "recaptcha-async": "0.0.4",
+    "node-captcha": "~0.1.6",
+    "validator": "~2.0.0",
+    "canvas": "1.1.2",
+    "session-mongoose": "~0.3.2",
+    "mime": "~1.2.11",
+    "mmmagic": "~0.3.4",
+    "jade": "~0.35.0",
+    "connect": "~2.11.0"
+  }
+}
