@@ -1,2 +1,2 @@
 module.exports =
-	name: 'Kraken Task Manager'
+	name: 'Sch Boilerplate'
